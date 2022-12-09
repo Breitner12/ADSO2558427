@@ -25,3 +25,5 @@ Información Basica
 - [ADSO12 Clase abstractas y metodos estaticos](/aprendices/breitner/ADSO12/README.md)
 - [ADSO13 Desarrollo con peticion GET a backend un objeto](/aprendices/breitner/ADSO13/README.md)
 - [ADSO14 Desarrollo con peticion GET a backend lista de  objetos](/aprendices/breitner/ADSO14/README.md)
+- [ADSO15 Custompaint, Stack y posicionado](/aprendices/breitner/ADSO15/README.md)
+- [ADSO17 Maquetado Html Veterinaria](/aprendices/breitner/ADSO17/README.md)
